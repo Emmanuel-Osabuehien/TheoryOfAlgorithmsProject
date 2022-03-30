@@ -1,5 +1,7 @@
 # Theory Of Algorithms Project
 
+***
+
 ## Contents
 
 * [Project Details](#details)
@@ -28,11 +30,17 @@ This repository exists to contain my project for the module Theory Of Algorithms
 
 ## What Is In It<a name = "what"></a>
 
+- **img, it contains the following**:
+    - Images to be used in both Jupyter Notebooks (countdown.ipynb and post-correspondence.ipynb)
+
+- **.gitignore, it contains the following**:
+    - File telling Git which files to ignore when committing your project to the GitHub repository
+
 - **countdown.ipynb, it contains the following**:
     - Overview and explanation of the Countdown Numbers Game
     - Discussion of the complexity of the Countdown Numbers Game
     - Python function, written in a functional programming style to solve a Countdown Numbers Game
-    -  Explanation of the functional aspects of your code
+    - Explanation of the functional aspects of your code
 
 - **post-correspondence.ipynb, it contains the following**:
     - Definition and explanation of the Post Correspondence Problem
