@@ -87,7 +87,35 @@ jupyter notebook
 
 ## Research<a name = "research"></a>
 
+Here is a repository containing research and working for this project:
+
 - [Theory Of Algorithms Research,<br> https://github.com/Emmanuel-Osabuehien/theory-of-algorithms-research](https://github.com/Emmanuel-Osabuehien/theory-of-algorithms-research)
+
+Here is a previous Python project I had worked on:
+
+- [Emerging Technology,<br> https://github.com/Emmanuel-Osabuehien/EmergingTechnologyProject)
+
+Here are three repositories containing more Python research:
+
+- [Emerging Technology Research,<br> https://github.com/Emmanuel-Osabuehien/emerging-technology-research)
+- [Quantum Computing,<br> https://github.com/Emmanuel-Osabuehien/quantum-computing)
+- [NumPy Random,<br> https://github.com/Emmanuel-Osabuehien/numpy-random)
 
 ## References<a name = "references"></a>
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
