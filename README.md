@@ -103,21 +103,16 @@ Here are three repositories containing more Python research:
 
 ## References<a name = "references"></a>
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+- [Python Docs,<br> https://docs.python.org/3/library/itertools.html](https://docs.python.org/3/library/itertools.html)
+- [Geeks For Geeks,<br> https://www.geeksforgeeks.org/python-itertools/](https://www.geeksforgeeks.org/python-itertools/)
+- [Real Python,<br> https://realpython.com/python-itertools/](https://realpython.com/python-itertools/)
+- [W3Schools,<br> https://www.w3schools.com/python/module_random.asp](https://www.w3schools.com/python/module_random.asp)
+- [Python Docs,<br> https://docs.python.org/3/library/random.html](https://docs.python.org/3/library/random.html)
+- [Program Miz,<br> https://www.programiz.com/python-programming/operators](https://www.programiz.com/python-programming/operators)
+- [Tutorials Point,<br> https://www.tutorialspoint.com/python/python_basic_operators.htm](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+- [Real Python,<br> https://realpython.com/python-itertools/](https://realpython.com/python-itertools/)
+- [Javatpoint,<br> https://www.javatpoint.com/automata-post-correspondence-problem](https://www.javatpoint.com/automata-post-correspondence-problem)
+- [Tutorial and Example,<br> https://www.tutorialandexample.com/undecidable-problem-of-turing-machine](https://www.tutorialandexample.com/undecidable-problem-of-turing-machine)
+- [Stack Exchange,<br> https://codereview.stackexchange.com/questions/190533/countdown-numbers-game-solution-generator](https://codereview.stackexchange.com/questions/190533/countdown-numbers-game-solution-generator)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
