@@ -96,6 +96,14 @@ Click the following image to view the post-correspondence.ipynb notebook in a st
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Emmanuel-Osabuehien/TheoryOfAlgorithmsProject/blob/main/post-correspondence.ipynb)
 
+Click the following image to view the countdown.ipynb notebook in a dynamic form:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Emmanuel-Osabuehien/TheoryOfAlgorithmsProject/HEAD?labpath=countdown.ipynb)
+
+Click the following image to view the post-correspondence.ipynb notebook in a dynamic form:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Emmanuel-Osabuehien/TheoryOfAlgorithmsProject/HEAD?labpath=post-correspondence.ipynb)
+
 ## Research<a name = "research"></a>
 
 Here is a repository containing research and working for this project:
