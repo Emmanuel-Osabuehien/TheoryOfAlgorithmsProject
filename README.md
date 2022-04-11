@@ -8,6 +8,7 @@
 * [Why This Repository Exists](#why) 
 * [What Is In It](#what)
 * [How To Run The Notebook](#how)
+* [Quick Steps](#quick)
 * [Research](#research)
 * [References](#references)
 
@@ -84,6 +85,16 @@ jupyter notebook
 - Git
 - Cmder
 - WSL2
+
+## Quick Steps<a name = "quick"></a>
+
+Click the following image to view the countdown.ipynb notebook in a static form:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Emmanuel-Osabuehien/TheoryOfAlgorithmsProject/blob/main/countdown.ipynb)
+
+Click the following image to view the post-correspondence.ipynb notebook in a static form:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Emmanuel-Osabuehien/TheoryOfAlgorithmsProject/blob/main/post-correspondence.ipynb)
 
 ## Research<a name = "research"></a>
 
