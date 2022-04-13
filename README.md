@@ -133,5 +133,11 @@ Here are three repositories containing more Python research:
 - [Javatpoint,<br> https://www.javatpoint.com/automata-post-correspondence-problem](https://www.javatpoint.com/automata-post-correspondence-problem)
 - [Tutorial and Example,<br> https://www.tutorialandexample.com/undecidable-problem-of-turing-machine](https://www.tutorialandexample.com/undecidable-problem-of-turing-machine)
 - [Stack Exchange,<br> https://codereview.stackexchange.com/questions/190533/countdown-numbers-game-solution-generator](https://codereview.stackexchange.com/questions/190533/countdown-numbers-game-solution-generator)
+- A. Ehrenfeucht, J. Karhum and G. Rozenberg, *The (generalized) Post correspondence problem with lists consisting of two words is decidable*, Amsterdam, NH: Elsevier, 1982, pp. 119-144
+- G. Gloor, L. Kari and S. Yu, *Using DNA to solve the bounded post correspondence problem*, Amsterdam, NH: Elsevier, 2000, pp. 193-203
+- S. Colton, *Countdown numbers game: Solved, analysed, extended*, 2014
+- G. Hutton, *The countdown problem*, Cambridge, UK: Cambridge University Press, 2002
+- G. F. Lott, *Functional Python programming: Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads*, Birmingham, UK: Packt Publishing Ltd, 2018
+- M. Ravasi and I. Vasconcelos, *PyLops — A linear-operator Python library for scalable algebra and optimization*, Amsterdam, NH: Elsevier, 2020
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
