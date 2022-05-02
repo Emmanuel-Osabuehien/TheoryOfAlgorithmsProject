@@ -140,5 +140,7 @@ Here are three repositories containing more Python research:
 - G. F. Lott, *Functional Python programming: Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads*, Birmingham, UK: Packt Publishing Ltd, 2018
 - M. Ravasi and I. Vasconcelos, *PyLops — A linear-operator Python library for scalable algebra and optimization*, Amsterdam, NH: Elsevier, 2020
 - A. Myasnikov and A. N. Rybalov, *Generic complexity of undecidable problems*, Cambridge, UK: Cambridge University Press, 2008, pp. 656-673
+- V. D. Blondel and V. Canterini, *Undecidable problems for probabilistic automata of fixed dimension*, New York, NY: Springer, 2003
+- R. Mayr, *Undecidable problems in unreliable computations*, Amsterdam, NH: Elsevier, 2003, pp. 337-354
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
