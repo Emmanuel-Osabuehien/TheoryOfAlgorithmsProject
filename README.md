@@ -5,9 +5,10 @@
 ## Contents
 
 * [Project Details](#details)
-* [Why This Repository Exists](#why) 
+* [Why This Repository Exists](#why)
 * [What Is In It](#what)
 * [How To Run The Notebook](#how)
+* [Software Requirements](#req)
 * [Quick Steps](#quick)
 * [Research](#research)
 * [References](#references)
@@ -79,7 +80,9 @@ jupyter notebook
 9) Jupyter should run in browser, if not the localhost address should be provided in the command prompt where you can copy and paste into your required search engine.
 10) You can restart and run all cells in either the 'countdown.ipynb' or 'post-correspondence.ipynb' notebooks.
 
-## Software Requirements
+<p>Please ensure you have treelib installed to run the post-correspondence.ipynb notebook.</p>
+
+## Software Requirements<a name = "req"></a>
 
 - Python 3.9
 - Jupyter
@@ -87,6 +90,7 @@ jupyter notebook
 - Git
 - WSL2
 - Cmder
+- Treelib
 
 ## Quick Steps<a name = "quick"></a>
 
