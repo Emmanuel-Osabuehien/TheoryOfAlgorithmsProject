@@ -79,12 +79,14 @@ jupyter notebook
 9) Jupyter should run in browser, if not the localhost address should be provided in the command prompt where you can copy and paste into your required search engine.
 10) You can restart and run all cells in either the 'countdown.ipynb' or 'post-correspondence.ipynb' notebooks.
 
-<p> System requirements that are needed to run the project includes: </p>
+## Software Requirements
 
 - Python 3.9
+- Jupyter
+- Anaconda
 - Git
-- Cmder
 - WSL2
+- Cmder
 
 ## Quick Steps<a name = "quick"></a>
 
